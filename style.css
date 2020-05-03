@@ -92,13 +92,13 @@ li{
         display: flex;
         flex-direction: row;
         flex-wrap: wrap-reverse;
-        background-color:black;
+        background-color:white;
         font-family: Lato; 
         min-height:100%;
         width:96%;
         margin-top:2%;
         margin-left:2%;
-        color:white;
+        color:black;
     }
     
     #profilepic
